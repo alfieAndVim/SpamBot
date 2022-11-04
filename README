@@ -1,0 +1,8 @@
+An artifical intelligence application to detect spam in user inputted messages.
+
+An android application has been developed using the Flutter framework and Dart.
+An IOS application has been developed using the SwiftUI framework with Swift.
+
+Models for these were created through tensorflowLite and CoreML respectively.
+
+Note: Only views and model files have been included for the application to remove exposure to Firebase Accounts.
